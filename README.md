@@ -20,5 +20,5 @@
 **Right Mouse Button:**
 > Place Wall
 
-**Middle Mouse Button: **
+**Middle Mouse Button:**
 > Remove Block
