@@ -14,6 +14,11 @@
 ---
 
 ## Keybinds
-Left   Mouse Button: > Place Sand
-Right  Mouse Button: > Place Wall
-Middle Mouse Button: > Remove Block
+Left   Mouse Button: 
+> Place Sand
+
+Right  Mouse Button: 
+> Place Wall
+
+Middle Mouse Button: 
+> Remove Block
