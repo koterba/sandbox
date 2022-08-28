@@ -8,7 +8,7 @@ enum Type {
     Sand,
     Wall
 }
-
+ 
 #[derive(Debug, Clone)]
 struct Block {
     x: i32,
