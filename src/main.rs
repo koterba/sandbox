@@ -1,6 +1,6 @@
 use raylib::prelude::*;
 use rand::prelude::*;
-
+ 
 const BLOCK_SIZE: i32 = 20;
 
 #[derive(Debug, Clone, PartialEq)]
