@@ -22,3 +22,4 @@
 
 **Middle Mouse Button:**
 > Remove Block
+ 
